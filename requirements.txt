@@ -1,0 +1,7 @@
+crewai
+langchain
+crewai[tools]
+ollama
+embedchain
+pandas 
+openpyxl
