@@ -55,3 +55,10 @@ To execute the script, simply run:
 ```bash
 python exam_grader.py
 ```
+
+## Credits
+
+This project was developed by Eduardo Zuñiga. Special thanks to the open-source community for providing the tools and libraries that made this project possible.
+
+[Website](https://eduzsantillan-dev.vercel.app/)
+[Linkedin](https://www.linkedin.com/in/eduzuniga/)
